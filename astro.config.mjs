@@ -5,7 +5,7 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://xostc.github.io/xostc.github.io',
+    site: 'https://xostc.github.io',
     integrations: [
         mdx(),
         sitemap(),
