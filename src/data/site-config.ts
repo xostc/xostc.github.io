@@ -38,8 +38,8 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
+    title: 'Xose Manuel Tomé Castro',
+    subtitle: 'This is my personal portfolio',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -59,8 +59,8 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Github',
+            href: 'https://github.com/xostc'
         }
     ],
     footerNavLinks: [
@@ -83,8 +83,8 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'www.linkedin.com/in/xosé-tomé'
         },
         {
             text: 'Instagram',
